@@ -19,6 +19,7 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'lazydukk', // Usually your GitHub org/user name.
   projectName: 'lazydocs', // Usually your repo name.
+  deploymentBranch: 'prod',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
