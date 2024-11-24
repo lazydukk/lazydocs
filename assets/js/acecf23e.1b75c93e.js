@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklzdocs=self.webpackChunklzdocs||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/lazydocs/blog","blogTitle":"Blog","authorsListPath":"/lazydocs/blog/authors"}')}}]);
