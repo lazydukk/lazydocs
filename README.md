@@ -1,5 +1,7 @@
 # lazydocs
 
+## built wiht docusaurus
+
 to deploy to gh-pages
 
 ```pwsh
