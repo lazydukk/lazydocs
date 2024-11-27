@@ -1,6 +1,6 @@
 # lazydocs
 
-## built wiht docusaurus
+built with docusaurus
 
 to deploy to gh-pages
 
